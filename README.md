@@ -18,7 +18,7 @@ I.Trước tiên phải cài đặt Python và OpenCV trước.
 II.Sau đó ta cài đặt Pytessarct OCR (download tai https://github.com/UB-Mannheim/tesseract/wiki)
 lựa chọn phiên bản phù hợp với máy của bạn
 
-- Bước 1: chạy cài đặt phần mềm tessract-orc-w6
+- Bước 1: chạy cài đặt phần mềm cài đặt tessract-orc-...exe
 - Bước 2: chọn vào phần additional language data (theo ảnh SetUp _Tesseract)
 - Bước 3: Hoàn thành các bước còn lại của việc setup
 - Bước 4: Mở Command vàPrompt trên máy tính và gõ: pip install pytesseract
