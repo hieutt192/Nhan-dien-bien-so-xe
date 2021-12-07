@@ -12,8 +12,8 @@ IDE và thư viện máy chạy demo sử:
 - Thư viện Pytessract v5.0.0
 
 I.Trước tiên phải cài đặt Python và OpenCV trước. 
-- cai dat Python 3.9.7 (download tai https://www.python.org/downloads/) 
-- cai dat Opencv (download tai https://opencv.org/opencv-3-4/)
+- Install Python 3.9.7 (download tai https://www.python.org/downloads/) 
+- Install Opencv (download tai https://opencv.org/opencv-3-4/)
 
 II.Sau đó ta cài đặt Pytessarct OCR (download tai https://github.com/UB-Mannheim/tesseract/wiki)
 lựa chọn phiên bản phù hợp với máy của bạn
@@ -25,6 +25,6 @@ lựa chọn phiên bản phù hợp với máy của bạn
 - Bước 5: Chạy file code bằng Visual studio code
 
 III. Chạy file bằng visual code 
-- chạy file Doc_anh_bien_so.py bấm f5 và chọn chạy file bằng Python file
-- chạy file Nhan_bien_so_realtime.py bấm f5 và chọn chạy file bằng Python file
+- Run file Doc_anh_bien_so.py trong VScode bấm f5 và chọn chạy file bằng Python file
+- Run file Nhan_bien_so_realtime.py trong VScode bấm f5 và chọn chạy file bằng Python file
 
