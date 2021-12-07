@@ -6,10 +6,10 @@ Hướng dẫn sử dụng chủ đề phân tích và nhận diện biển số
 Chúng ta muốn chạy được ứng dụng code nhận diện biển số xe chúng ta cần:
  
 IDE và thư viện máy chạy demo sử:
--Visual studio code 17
--Ngôn ngữ cài đặt Python v 3.9.7
--Thư viện OpenCV v 4.1.1
--Thư viện Pytessract v5.0.0
+- Visual studio code 17
+- Ngôn ngữ cài đặt Python v 3.9.7
+- Thư viện OpenCV v 4.1.1
+- Thư viện Pytessract v5.0.0
 
 I.Trước tiên phải cài đặt Python và OpenCV trước. 
 - cai dat Python 3.9.7 (download tai https://www.python.org/downloads/) 
@@ -18,11 +18,11 @@ I.Trước tiên phải cài đặt Python và OpenCV trước.
 II.Sau đó ta cài đặt Pytessarct OCR (download tai https://github.com/UB-Mannheim/tesseract/wiki)
 lựa chọn phiên bản phù hợp với máy của bạn
 
-Bước 1: chạy cài đặt phần mềm tessract-orc-w6
-Bước 2: chọn vào phần additional language data (theo ảnh SetUp _Tesseract)
-Bước 3: Hoàn thành các bước còn lại của việc setup
-Bước 4: Mở Command vàPrompt trên máy tính và gõ: pip install pytesseract
-Bước 5: Chạy file code bằng Visual studio code
+- Bước 1: chạy cài đặt phần mềm tessract-orc-w6
+- Bước 2: chọn vào phần additional language data (theo ảnh SetUp _Tesseract)
+- Bước 3: Hoàn thành các bước còn lại của việc setup
+- Bước 4: Mở Command vàPrompt trên máy tính và gõ: pip install pytesseract
+- Bước 5: Chạy file code bằng Visual studio code
 
 III. Chạy file bằng visual code 
 - chạy file Doc_anh_bien_so.py bấm f5 và chọn chạy file bằng Python file
